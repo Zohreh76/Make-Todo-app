@@ -1,0 +1,17 @@
+{
+  "name": "to_do_app",
+  "version": "1.0.0",
+  "description": "a little todo app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.8",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.14"
+  }
+}

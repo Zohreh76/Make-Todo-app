@@ -1,0 +1,13 @@
+video33,34,35,36,37:
+https://www.youtube.com/watch?v=NA21dUBfJhw&index=33&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp
+https://www.youtube.com/watch?v=IgAH0NqsJso&index=34&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp
+https://www.youtube.com/watch?v=L4OP8JGKbQU&index=35&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp
+mongodb.com  
+mongopackage is in npmjs.com
+mlab.com
+
+npm install mongoose -save
+
+
+https://www.youtube.com/watch?v=yevfxvt5r7Y&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp&index=36
+to 
